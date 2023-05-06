@@ -1,7 +1,8 @@
 # GestureMouse
 
+Completed by Febuary
 
-
+TechStack - python ,opencv,mediapipe,time
 
 An AI-powered virtual mouse that tracks hand movements and gestures.
 
